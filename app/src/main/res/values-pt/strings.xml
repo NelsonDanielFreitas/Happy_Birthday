@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Happy Birthday</string>
+
+    <string name="HappyBirthday" translatable="false">Parabéns Margarida</string>
+    <string name="from">De Nelson</string>
+</resources>
